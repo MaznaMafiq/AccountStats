@@ -1,0 +1,9 @@
+{
+  "name": "AccountStats",
+  "version": "2.0.0",
+  "description": "Displays your Discord join date, friends who are bots, server stats, Nitro status, badges, and more.",
+  "author": "MaznaMafiq",
+  "source": "https://github.com/MaznaMafiq/AccountStats",
+  "updateUrl": "https://raw.githubusercontent.com/MaznaMafiq/AccountStats/main/AccountStats.plugin.js",
+  "license": "MIT"
+}
